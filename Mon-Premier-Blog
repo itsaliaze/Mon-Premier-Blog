@@ -1,0 +1,3 @@
+pip3.8 install --user pythonanywhere
+
+pa_autoconfigure_django.py --python=3.8 https://github.com/knafil/mon-premier-blog.git
